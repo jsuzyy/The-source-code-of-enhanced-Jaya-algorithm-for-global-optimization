@@ -1,1 +1,1 @@
-# EJAYA-
+This file is the source code of the proposed enhanced Jaya algorithm for solving global optimization problems, whose title is " Enhanced Jaya algorithm: A simple but efficient optimization method for constrained engineering design problems" and has been published in Knowledge-based systems(https://doi.org/10.1016/j.knosys.2021.107555). 
